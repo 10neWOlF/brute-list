@@ -1,6 +1,6 @@
 # usernames_brute.txt
 
-This file contains a large list of usernames collected from various sources worldwide. It is intended **solely for testing and research purposes**, such as brute force attack simulations, password strength analysis, and security tool development.
+This file contains a large list of usernames collected from various sources worldwide. It is intended **solely for testing and research purposes**,  such as brute force attack simulations, password strength analysis, and security tool development.
 
 ## Usage
 - Use this file to test authentication systems against common and uncommon usernames.
